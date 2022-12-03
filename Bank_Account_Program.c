@@ -295,10 +295,6 @@ void Change_Account_Status(){
 			default:
 			break;
 		}
-	else{
-		printf("incorrect Choice\n");
-	fclose(FileOne);
-}
 }
 //_________________________________________________________________
 void Change_Account_Password();{
