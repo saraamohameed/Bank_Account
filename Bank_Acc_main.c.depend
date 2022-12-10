@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1670707326 source:e:\bank_acc\bank_acc_main.c\bank_acc_admin.c
+	<stdio.h>
+	<string.h>
+	"STD_Types.h"
+	"Bank_ACC_Admin.h"
+	"Bank_ACC_Client.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Bank_ACC_Admin.h"
+	"Bank_ACC_Client.h"
+	"STD_Types.h"
+	<windows.h>
+
+1670708735 source:e:\bank_acc\bank_acc_main.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Bank_ACC_Admin.h"
+	"Bank_ACC_Client.h"
+	"STD_Types.h"
+	<windows.h>
+
+1670677047 e:\bank_acc\bank_acc_main.c\bank_acc_admin.h
+
+1670635704 e:\bank_acc\bank_acc_main.c\bank_acc_client.h
+
+1670680388 e:\bank_acc\bank_acc_main.c\std_types.h
+
+1670707570 source:e:\bank_acc\bank_acc_main.c\bank_acc_client.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Bank_ACC_Admin.h"
+	"Bank_ACC_Client.h"
+	"STD_Types.h"
+	<windows.h>
+
